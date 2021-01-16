@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76384" started-at="2021-01-15T23:16:35 IST" finished-at="2021-01-15T23:17:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76384" started-at="2021-01-15T23:16:35 IST" finished-at="2021-01-15T23:17:51 IST">
+      <class name="demo.ExtentReportDemo">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="reportSetup" is-config="true" duration-ms="7125" started-at="2021-01-15T23:16:35 IST" finished-at="2021-01-15T23:16:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="collectLinks()[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="collectLinks" duration-ms="25063" started-at="2021-01-15T23:16:42 IST" finished-at="2021-01-15T23:17:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collectLinks -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="tearDown" is-config="true" duration-ms="989" started-at="2021-01-15T23:17:07 IST" finished-at="2021-01-15T23:17:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=collectLinks status=SUCCESS method=ExtentReportDemo.collectLinks()[pri:0, instance:demo.ExtentReportDemo@168ddbd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="reportSetup" is-config="true" duration-ms="4592" started-at="2021-01-15T23:17:08 IST" finished-at="2021-01-15T23:17:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="scrollDemo()[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="scrollDemo" duration-ms="7958" started-at="2021-01-15T23:17:13 IST" finished-at="2021-01-15T23:17:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDemo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="tearDown" is-config="true" duration-ms="1132" started-at="2021-01-15T23:17:21 IST" finished-at="2021-01-15T23:17:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scrollDemo status=SUCCESS method=ExtentReportDemo.scrollDemo()[pri:0, instance:demo.ExtentReportDemo@168ddbd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="reportSetup" is-config="true" duration-ms="4445" started-at="2021-01-15T23:17:22 IST" finished-at="2021-01-15T23:17:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="scrollView()[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="scrollView" duration-ms="23275" started-at="2021-01-15T23:17:26 IST" finished-at="2021-01-15T23:17:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollView -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="tearDown" is-config="true" duration-ms="1122" started-at="2021-01-15T23:17:49 IST" finished-at="2021-01-15T23:17:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scrollView status=SUCCESS method=ExtentReportDemo.scrollView()[pri:0, instance:demo.ExtentReportDemo@168ddbd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:demo.ExtentReportDemo@168ddbd]" name="generateReport" is-config="true" duration-ms="594" started-at="2021-01-15T23:17:51 IST" finished-at="2021-01-15T23:17:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- demo.ExtentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

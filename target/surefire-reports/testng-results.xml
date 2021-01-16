@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15127" started-at="2021-01-15T22:52:07 IST" finished-at="2021-01-15T22:52:22 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15127" started-at="2021-01-15T22:52:07 IST" finished-at="2021-01-15T22:52:22 IST">
+      <class name="demo.Sample">
+        <test-method status="PASS" signature="add()[pri:0, instance:demo.Sample@94e528]" name="add" duration-ms="66" started-at="2021-01-15T22:52:07 IST" finished-at="2021-01-15T22:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="driverDetup()[pri:0, instance:demo.Sample@94e528]" name="driverDetup" duration-ms="14970" started-at="2021-01-15T22:52:07 IST" finished-at="2021-01-15T22:52:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverDetup -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:demo.Sample@94e528]" name="sub" duration-ms="0" started-at="2021-01-15T22:52:22 IST" finished-at="2021-01-15T22:52:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- demo.Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
